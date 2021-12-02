@@ -91,13 +91,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Anna C. Nelson" # Site name or title, also used in jekyll-seo-tag
+title: "Chee Han Tan" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "William W. Elliott Assistant Research Professor" # Site description and default description, also used in jekyll-seo-tag
+#description: "sdf" # Site description and default description, also used in jekyll-seo-tag
 #url: # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/annacnelson/annacnelson"
-email: "anelson@math.duke.edu"
+repo: "https://github.com/cheehantan/cheehantan"
+email: "cht007@bucknell.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
