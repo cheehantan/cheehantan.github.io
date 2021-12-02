@@ -1,5 +1,5 @@
 ---
-title: Chee Han Tan
+title: 
 feature_text: |
   ## Chee Han Tan
   Department of Mathematics, Bucknell University
