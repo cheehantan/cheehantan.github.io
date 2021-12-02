@@ -67,7 +67,7 @@ a {
   }
   
     h2  {
-    color: $firstHeadingColour;
+    color: $HeadingColour;
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
