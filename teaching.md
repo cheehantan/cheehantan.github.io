@@ -11,9 +11,10 @@ I am currently teaching Math 201: Calculus I and Math 212: Differential Equation
 <hr/>
 
 ### Past Teaching Experience
-* Math 353: Elementary Differential Equations and Boundary Value Problems [Fall 2021, Duke]
-* Math 2250: Differential Equations and Linear Algebra [Spring 2019, U. of Utah]
-* Math 1220: Calculus II [Spring 2018, U. of Utah]
-* Math 1100: Business Calculus [Fall 2017, U. of Utah]
-* Math 1050: College Algebra [Fall 2016, Spring 2017, Summer 2017 (online), U. of Utah]
-* Math 1030: Intro to Quantitative Reasoning [Spring 2016, Summer 2016 (online), Summer 2018 (online), U. of Utah]
+* Math 2250: Differential Equations and Linear Algebra [Fall 2020, Spring 2021, Summer 2021, U. of Utah] 
+* Math 12: Calculus I Review [Spring 2021, Fall 2020, Spring 2020, U. of Utah]
+* Math 1080: Precalculus Online [Summer 2020, U. of Utah]
+* Math 1220: Calculus II [Spring 2020 (online), U. of Utah]
+* Math 1210: Calculus I [Fall 2018, Fall 2019 (online) U. of Utah]
+* Math 15: Precalculus Review [Fall 2018, U. of Utah]
+* Math 1050: College Algebra [Spring 2017, Summer 2017, Spring 2018, Summer 2018, U. of Utah]
