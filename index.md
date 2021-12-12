@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Chee Han Tan
   Department of Mathematics, Bucknell University
-feature_image: "IMG_6389.png"
+feature_image: "IMG_6656-1.png"
 excerpt: "This."
 aside: true
 ---
